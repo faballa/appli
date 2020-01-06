@@ -1,0 +1,40 @@
+body
+{
+        background: url("images/bg2.jpg");
+    }
+.post-title { font-size:20px; }
+.mtb-margin-top { margin-top: 20px; }
+.top-margin { border-bottom:2px solid #ccc; margin-bottom:20px; display:block; font-size:1.3rem; line-height:1.7rem;}
+
+.form-check-label {
+	background-image:url(images/error.png);
+	background-position:left;
+	background-repeat:no-repeat;
+	padding-left:1.5rem;
+}
+.btn-success {
+	cursor:pointer;
+}
+.admin{
+background: #fff;
+margin-top: 10px;
+padding: 50px;
+border-radius: 10px;
+}
+.tete{
+ background: #fff;
+margin-top: 5px;
+padding: 20px;
+border-radius: 10px;
+}   
+}
+#footer {
+    background: #007b5e;
+    color: white;
+    margin: 50px 0px 0px 0px;
+    padding: 60px 0 40px;
+    display: block;
+}
+.help-inline{
+    color: red;
+}
